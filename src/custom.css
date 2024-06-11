@@ -1,0 +1,5 @@
+/* src/styles/custom.css */
+.min-h-calc {
+    min-height: calc(100vh - 40px);
+  }
+  
